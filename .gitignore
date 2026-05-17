@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+.env
+data/
+media/
+node_modules/
+dist/
+.vite/
+.DS_Store
